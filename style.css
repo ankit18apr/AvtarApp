@@ -1,0 +1,49 @@
+
+.container{
+    height: 500px;
+    width: 700px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border:3px solid rgb(255, 255, 255);
+    background-color: rgb(29, 112, 112);
+    text-align: center;
+}
+h1{
+    color:snow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow:2px 2px rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 50px;
+    background-color: cornflowerblue;
+
+}
+.container .main .image{
+    margin-top: 20px;
+}
+.image{
+     
+    width:200px;
+    height:200px;
+    margin: auto;
+    margin-bottom: 20px;
+    border: 2px solid rgb(164, 233, 250);
+    text-align: center;
+}
+body{
+    background-color: rgb(123, 236, 108);
+}
+button{
+    background-color: rgba(194, 255, 250,1);
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(47, 47, 168);
+    font-size: 30px;
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.438);
+    border-radius: 15px;
+    border: 1px solid blue;
+}
+input{
+    background-color: rgb(250, 152, 172);
+    height: 40px;
+}
